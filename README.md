@@ -1,5 +1,4 @@
-# Predicting-Film-Award-Recognition-Using-Production-Features
-Predicting Film Award Recognition Using Production Features 
+
 # 🏆 Predicting Film Award Recognition Using Machine Learning
 
 Machine learning analysis that predicts Oscar and Golden Globe nominations with 82% accuracy using production features.
